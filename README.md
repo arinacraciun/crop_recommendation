@@ -13,7 +13,7 @@ Built using the [Kaggle Crop Recommendation Dataset](https://www.kaggle.com/data
 
 ---
 
-## 📌 Features & Architecture
+## 📌 Features & Architecturegit add README.md
 
 * **High-Performance ML Inference**: Trained and optimized a LightGBM multiclass classifier across 22 distinct crop types.
 * **Explainable AI (XAI)**: Integrated SHAP (Shapley Additive exPlanations) to provide local feature importance, transforming the "black box" prediction into a transparent, explainable decision-support tool.
